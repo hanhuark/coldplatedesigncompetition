@@ -13,6 +13,7 @@ Questions can be sent to asmeheatsinkchallenge@gmail.com.
 <p align="center">
   <img src="2025CompetitionAd.png" alt='2025 Competition Ad' width="100%" />
 </p>
+
 ### 2025 White Paper & Model File Submission Information: 
 * Deadline: December 20, 2024 at 11:59 pm Eastern Time
 * Please fill out the white paper submission form and upload the following files to Box folder with the naming convention  “team_name.pdf” (for the white paper) and your model/simulation file as “team_name.*”. Note that you should upload your white paper (as a PDF following the provided template) and also upload all three model files listed below:
