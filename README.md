@@ -11,7 +11,7 @@ This repository includes the design guidelines and CAD files of housing for ASME
 * A template for your white paper is provided in Word, but you can also use Latex/Overleaf from https://www.ieee.org/conferences/publishing/templates.html, but you should read the word document to understand the required information for this competition.
 Questions can be sent to asmeheatsinkchallenge@gmail.com.
 <p align="center">
-  <img src="2025CompetitionAd.png" alt='2025 Competition Ad' width="80%" />
+  <img src="2025CompetitionAd.png" alt='2025 Competition Ad' width="100%" />
 </p>
 ### 2025 White Paper & Model File Submission Information: 
 * Deadline: December 20, 2024 at 11:59 pm Eastern Time
