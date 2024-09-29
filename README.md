@@ -2,8 +2,8 @@
 ## This repository includes the design guidelines and CAD files of housing for ASME K-16/IEEE EPS Cold Plate Design Competition <br>
 
 ## For 2024-2025 Competition
-### Competition website: https://www.ieee-itherm.net/cold-plate-competition-2025/ <br>
-* The CAD files are developed by Fabric8Labs, the manufacturign sponsor of this competition. <br>
+### Competition Information
+* Competition webpage: https://www.ieee-itherm.net/cold-plate-competition-2025/ <br>
 * Students competing in this challenge will design a cold plate according to the provided guidelines.
 * 2025 Cold Plate Competition Guidelines contains information about the design challenge and design process.
 * Make sure to register for the competition at https://forms.gle/fcPV343qBXXmy4dj6 to receive competition updates.
