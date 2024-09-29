@@ -1,5 +1,5 @@
 # ASME K-16/IEEE EPS Cold Plate Design Competition
-## This repository includes the design guidelines and CAD files of housing for ASME K-16/IEEE EPS Cold Plate Design Competition <br>
+This repository includes the design guidelines and CAD files of housing for ASME K-16/IEEE EPS Cold Plate Design Competition <br>
 
 ## For 2024-2025 Competition
 ### Competition Information
