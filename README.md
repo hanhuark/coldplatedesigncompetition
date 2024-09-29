@@ -1,18 +1,18 @@
 # ASME K-16/IEEE EPS Cold Plate Design Competition
-* This repository includes the design guidelines and CAD files of housing for ASME K-16/IEEE EPS Cold Plate Design Competition <br>
+## This repository includes the design guidelines and CAD files of housing for ASME K-16/IEEE EPS Cold Plate Design Competition <br>
 
-For 2024-2025 Competition
-* Competition website: https://www.ieee-itherm.net/cold-plate-competition-2025/ <br>
+##For 2024-2025 Competition
+###Competition website: https://www.ieee-itherm.net/cold-plate-competition-2025/ <br>
 * The CAD files are developed by Fabric8Labs, the manufacturign sponsor of this competition. <br>
-Students competing in this challenge will design a cold plate according to the provided guidelines.
-2025 Cold Plate Competition Guidelines contains information about the design challenge and design process.
-Make sure to register for the competition at https://forms.gle/fcPV343qBXXmy4dj6 to receive competition updates.
-CAD files for the experimental setup and the heat sink base are stored on GitHub at https://github.com/hanhuark/coldplatedesigncompetition
-A template for your white paper is provided in Word, but you can also use Latex/Overleaf from https://www.ieee.org/conferences/publishing/templates.html, but you should read the word document to understand the required information for this competition.
+* Students competing in this challenge will design a cold plate according to the provided guidelines.
+* 2025 Cold Plate Competition Guidelines contains information about the design challenge and design process.
+* Make sure to register for the competition at https://forms.gle/fcPV343qBXXmy4dj6 to receive competition updates.
+* CAD files for the experimental setup and the heat sink base are stored on GitHub at https://github.com/hanhuark/coldplatedesigncompetition
+* A template for your white paper is provided in Word, but you can also use Latex/Overleaf from https://www.ieee.org/conferences/publishing/templates.html, but you should read the word document to understand the required information for this competition.
 Questions can be sent to asmeheatsinkchallenge@gmail.com.
 
-2025 White Paper & Model File Submission Information: 
-Deadline: December 20, 2024 at 11:59 pm Eastern Time
+###2025 White Paper & Model File Submission Information: 
+*Deadline: December 20, 2024 at 11:59 pm Eastern Time
 
 Please fill out the white paper submission form and upload the following files to Box folder with the naming convention  “team_name.pdf” (for the white paper) and your model/simulation file as “team_name.*”. Note that you should upload your white paper (as a PDF following the provided template) and also upload all three model files listed below:
 
