@@ -1,7 +1,7 @@
 # ASME K-16/IEEE EPS Cold Plate Design Competition
 * This repository includes the design guidelines and CAD files of housing for ASME K-16/IEEE EPS Cold Plate Design Competition <br>
 * Update on 10/8/2024: The IP term in the design guidelines document (Page 4) for 2024-2025 comptition has been updated: The participants retain ownership, but the competition organizers and manufacturer (Fabric8Labs) shall be granted a perpetual, non-exclusive right to use the designs for educational, research, or commercial purposes.
-
+* Update on 10/9/2024: The submission requirements are clarified in the design guidelines: The numerical model can use any software, including but not limited to COMSOL, Fluent, Icepak, and AEDT. 
 ## For 2024-2025 Competition
 ### Competition Information
 * Competition webpage: https://www.ieee-itherm.net/cold-plate-competition-2025/ <br>
